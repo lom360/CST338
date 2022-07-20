@@ -1,2 +1,1 @@
-# CST338
-Software Design
+# CST338 Software Design
